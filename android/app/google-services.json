@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856867521598",
+    "firebase_url": "https://notex-bad04.firebaseio.com",
+    "project_id": "notex-bad04",
+    "storage_bucket": "notex-bad04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856867521598:android:2451a88c70f5725e9c7d6f",
+        "android_client_info": {
+          "package_name": "com.notex.demone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856867521598-sk128aqu54dgusmm03l1sgddu9006gvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LHtACL1-rAEKH8GUr3ct-a9u6vCTnPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856867521598-sk128aqu54dgusmm03l1sgddu9006gvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
